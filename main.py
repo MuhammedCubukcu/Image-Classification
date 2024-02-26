@@ -10,7 +10,6 @@ import pickle
 
 
 
-
 # Data preprocessing
 input_dir = "/home/user/PycharmProjects/Image-Classification/animals/animals/"
 input_txt = "name of the animals.txt"
